@@ -1,0 +1,22 @@
+# ninja log v7
+23	171	8029700151892547	prng_qt_autogen/timestamp	46d4300a5da7bfdd
+23	171	8029700151892547	prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+23	171	8029700151892547	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/timestamp	46d4300a5da7bfdd
+23	171	8029700151892547	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+802	3073	8029699448080240	CMakeFiles/prng_qt.dir/main.cpp.obj	cc6e09e677aaefde
+783	3124	8029699447898630	CMakeFiles/prng_qt.dir/prng_qt_autogen/mocs_compilation.cpp.obj	7dd832905b18e1a8
+172	2734	8029700153389620	CMakeFiles/prng_qt.dir/mainwindow.cpp.obj	6c30b73175f423b2
+18	551	8029701705142418	prng_qt_autogen/timestamp	46d4300a5da7bfdd
+18	551	8029701705142418	prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+18	551	8029701705142418	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/timestamp	46d4300a5da7bfdd
+18	551	8029701705142418	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+570	2796	8029701705858413	CMakeFiles/prng_qt.dir/main.cpp.obj	cc6e09e677aaefde
+552	2810	8029701705676930	CMakeFiles/prng_qt.dir/prng_qt_autogen/mocs_compilation.cpp.obj	7dd832905b18e1a8
+575	3483	8029701705918191	CMakeFiles/prng_qt.dir/mainwindow.cpp.obj	6c30b73175f423b2
+3483	3701	8029701734991572	prng_qt.exe	c78e6b943373a256
+26	174	8029703624017595	prng_qt_autogen/timestamp	46d4300a5da7bfdd
+26	174	8029703624017595	prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+26	174	8029703624017595	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/timestamp	46d4300a5da7bfdd
+26	174	8029703624017595	C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/prng_qt_autogen/mocs_compilation.cpp	46d4300a5da7bfdd
+174	2741	8029703625500891	CMakeFiles/prng_qt.dir/mainwindow.cpp.obj	6c30b73175f423b2
+2741	2940	8029703651177204	prng_qt.exe	c78e6b943373a256

@@ -1,0 +1,5 @@
+C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/prng_qt.dir
+C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/edit_cache.dir
+C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/prng_qt_autogen_timestamp_deps.dir
+C:/Users/rozan/Desktop/prng_qt/prng_qt/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/prng_qt_autogen.dir
